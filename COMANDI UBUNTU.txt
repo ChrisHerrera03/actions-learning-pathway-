@@ -1,0 +1,6 @@
+ls al-
+cd 
+mkdir
+./ programma.exe per avviare the programs
+
+g++ pizza.cpp -c compila
